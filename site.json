@@ -1,0 +1,30 @@
+{
+  "baseUrl": "/1920-st",
+  "titlePrefix": "CS2030 AY19/20 Semester 2",
+  "ignore": [
+    "_markbind/layouts/*",
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md",
+    "*.mbd",
+    "*.mbdf",
+    "*.njk",
+    ".git/*"
+  ],
+  "pages": [
+    {
+      "src": "index.md",
+      "title": ""
+    },
+    {
+      "glob": "**/index.md"
+    },
+    {
+      "glob": "**/*.+(md|mbd)"
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
