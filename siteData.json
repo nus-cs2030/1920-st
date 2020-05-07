@@ -1,0 +1,98 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "header": "header.md",
+      "footer": "footer.md",
+      "pageNav": 2,
+      "siteNav": "site-nav.md",
+      "src": "index.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "cs2030-programming-methodology-ii": "CS2030: Programming Methodology II"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "README.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "1920-st": "1920-st"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "pageNav": 2,
+      "header": "header.md",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/guides/settingUpCheckstyle.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "setting-up-checkstyle": "Setting Up Checkstyle"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "pageNav": 2,
+      "header": "header.md",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/guides/settingUpJava.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "for-windows-users": "For Windows Users",
+        "for-macos-users": "For MacOS Users",
+        "setting-up-java": "Setting Up Java"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "pageNav": 2,
+      "header": "header.md",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/guides/settingUpLabEnv.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "setting-up-windows-subsystem-for-linux-wsl": "Setting Up Windows Subsystem for Linux (WSL)",
+        "downloading-xming-for-gvim": "Downloading XMing for gVim",
+        "downloading-and-setting-up-ubuntu": "Downloading and Setting Up Ubuntu",
+        "setting-up-your-vimrc-file": "Setting up your .vimrc file",
+        "setting-up-lab-environment": "Setting Up Lab Environment"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "pageNav": 2,
+      "header": "header.md",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/guides/settingUpMacVim.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "setting-up-macvim": "Setting Up MacVim"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "pageNav": 2,
+      "header": "header.md",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/guides/settingUpVim.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "setting-up-vim": "Setting Up Vim"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
